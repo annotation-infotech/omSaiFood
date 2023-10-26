@@ -1,0 +1,512 @@
+/* ---------------------------------HOME MOILE VIEW START----------------------------------------------------------------- */
+@media only screen and (min-width:500px) and (max-width:2000px){   
+    #mob-footer-onlineapp{
+        display: none !important;
+      }
+}
+     
+@media only screen and (max-width:476px){
+    #desk-nav{
+        display: none;
+    }
+    #mob-footer-onlineapp{
+        display: block;
+      }
+    #mob-nav .menu-dropdown{
+        background-color: #1f6f69;
+    }
+    
+    .web-top h4{
+        font-size: 12px;
+    line-height: 15px;
+    }
+    .bedlogo{
+        margin-left: 0 !important;
+    }
+
+    .textsec h3{
+        font-size: 17px;
+    
+    }
+    .textsec {
+        padding-top:0px !important;
+        padding-bottom:25px !important;
+    }
+    .textsec p{
+        font-size: 10px !important;
+        line-height: 12px;
+
+
+    }
+    .web-top strong{
+        font-weight: 700;
+    font-size: 34px;
+    }
+    .topbt{
+        display: none;
+    }
+    .search-input {
+        display: none;
+        }
+        /* .search-label{
+            display: none;
+        } */
+        .educare-header-wrapper{
+            display: none;
+        }
+        .caps{
+            line-height: 41px !important;
+            font-size: 39px !important;
+            padding-top: 39px;
+
+
+        }
+        .educare_fearures_section{
+            padding:0px;
+        }
+        .caps h4{
+            font-size: 13px !important;
+        }
+        .secondcardsec h2{
+            font-size: 34px ;
+
+        }
+        .cardsec .card{
+            margin:10px 25px;
+
+        }
+        .whishcard{
+            width: auto !important;
+            
+
+        }
+        .break{
+            display: block;
+        }
+        .price{
+            font-size: 17px;
+            padding-right: 0px;
+
+
+        }
+        .bed-img-top img{
+            margin-top: -58px;
+    margin-left: 0 !important;
+    max-width: 109% !important;
+        }
+        .whishbody h5{
+            font-size: 11px !important;
+            font-weight: 600;
+        }
+        .message-form input[type="text"]{
+            padding:10px;
+            margin: 20px 0px;
+        }
+        .offer{
+            font-size: 11px;
+        }
+        .whbtn{
+            font-size: 7px !important;
+        }
+        .bestsell h3{
+            font-size: 16px;
+        }
+        .vall{
+            font-size: 15px;
+            font-weight: 400;
+        }
+        .allphoto img {
+            max-width: 100% !important;
+            height:auto !important;
+        }
+        .footer-main-wrapper{
+            padding:20px;
+        }
+
+        .message-form input{
+            width:100% !important;
+        }
+        .message-form{
+            margin:10px !important;
+        }
+        .drop-msg-here{
+            margin-top: 20px;
+
+        }
+          .desk-filter-hidden{
+            display: none;
+          }
+          .filter-btn-mob{
+            display: block;
+          }
+          .before-nav{
+            display: none !important;
+          }
+          #hor-table{
+            display: block;
+          }
+
+          #ver-table{
+            display:none;
+          }
+          .bed-top h2{
+            padding-top: 0 !important;
+          }
+
+        /* -------------------------contact page meda query------------------------------- */
+        .section-twocard-offer img{
+            margin-top: 0px;
+        }
+        .section-twocard-offer .col-lg-6{
+            margin-bottom: 20px;
+        }
+        .section-threecard .col-lg-4{
+            padding-bottom:10px;
+        }
+        .slidersec-home{
+            padding:0 !important;
+        }
+        .sofa-top-head{
+            padding-left: 23px !important;
+            padding-top: 31px;
+        }
+        .rec-sofa{
+            padding-top:1rem !important;
+        }
+        .sofa-top-head h1{
+            font-size: 39px!important;
+            line-height: 10px;
+            margin-bottom: 5px;
+        }
+        .sofa-top-head p{
+            line-height: 12px;
+        }
+        .sofa-top-head h2{
+            font-size: 26px;
+        }
+        .rec-sofa-img img{
+            margin-top: -148px !important; 
+        }
+        .contactcard{
+            margin:10px;
+        }
+        .cardright {
+            padding-top: 50px;
+
+        }
+        .vmallsection {
+            padding: 0.5rem !important;
+
+        }
+        .vis-mis .card{
+            margin-bottom: 10px;
+        }
+        .value .card{
+            margin: 5px;
+        }
+        .exp{
+            font-size: 14px !important;
+            padding: 8px 50px;
+        }
+        
+        .vis-mis{
+            padding-top: 0 !important;
+        }
+        .why-fluid-cont {
+            padding: 1rem!important;
+        }
+        .about-sev-pad{
+            padding-top: 0 !important;
+        }
+        .category{
+            padding:30px 0px !important;
+        }
+        
+       .sofa-top-head h1{
+        font-weight: 800;
+       }
+       .orsumtop{
+        padding:1rem;
+       }
+       .profile-section{
+        padding:1rem !important;
+       }
+       .section-bed-cards-svg .col-lg-3{
+        flex: 0 0 33%;
+        max-width: 50%;
+        padding:0 !important;
+       }
+       .section-bed-cards-svg {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+       }
+       .section-bed-cards-svg h5{
+         font-size: 12px;
+       }
+       .section-bed-cards-svg  .type-sec-grsvg{
+        padding-top: 0px;
+        padding-bottom: 10px !important;
+       }
+       .sec-rowof-beds{
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+       }
+       .frame{
+        width:90%;
+       }
+       .section-rowof-beds h5{
+        font-size: 10px !important;
+       }
+       .section-rowof-beds .col.lg-2{
+        padding-right: 0 !important;
+        padding-left:0 !important;
+       }
+       .section-rowof-beds .card{
+        align-items: center;
+       }
+       .section-rowof-beds .card-body{
+        padding:0 !important;
+       }
+       .bed-img-top img {
+        margin-top: -122px;
+        margin-left: 0 !important;
+        max-width: 53% !important;
+        float: right;
+
+        }
+        .bed-top h2 {
+            font-size: 21px;
+            line-height: 23px;
+            font-weight: 800;
+            padding-top: 2em;
+            color: #1f6f69;
+            margin-bottom: 5px;
+            padding-left: 10px;
+        }
+        .section-banner-bed .container{
+            padding:0px;
+        }
+        .section-banner-bed p{
+            font-size: 10px;
+            padding-left: 10px;
+        }
+        .mattress-heading {
+            padding-top: 1rem !important;
+    padding-left: 30px;
+        }
+        .mattress-heading  h1{
+            font-size: 34px!important;
+            line-height: 13px;
+
+        }
+        .mat-img img{
+            margin-left: 0 !important;
+    max-width: 100% !important;
+    float: none;
+        }
+
+
+
+
+        .product-details{
+            flex-direction: column;
+        
+        }
+        
+        #exTab3 .nav-pills > li > a {
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .product-info h1{
+            font-size:15px !important;
+        }
+        .product-info p{
+            line-height:18px;
+        }
+        .mrp {
+            font-size: 16px;
+        }
+        .addcardbtn {
+            background-color: #1f6f69;
+            padding: 9px 22px;
+            border-radius: 12px;
+        }
+        .product-photo {
+            border-right: none;
+        }
+        .product-info h4{
+            font-size:15px !important;
+            line-height: 30px;
+        }
+        .product-price {
+            font-size: 20px;
+        }
+        .product-offer {
+            font-size: 16px;
+        }
+        
+        .stockleft{
+            font-size: 11px;
+        }
+        .deadline{
+            font-size: 11px;
+        }
+       /* -------------------------cart address form start--------------------------- */
+
+
+        .secbill{
+            padding:0 !important;
+        }
+        .cart-product-mob{
+            padding:25px;
+        }
+        .orsumtop{
+            padding-top: 15px;
+        }
+        .summary{
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin: auto;
+        }
+
+        /* -------------------------my profile css start------------------------------------- */
+
+        .tabcontent {
+            margin-left:0px !important;
+            margin-top: 15px;
+
+        }
+        .rehead{
+            margin-top: -55px;
+        }
+        .revbtn{
+            font-size:10px;
+        }
+        .repara{
+            font-size:11px;
+        }
+        .verified-buyer{
+            font-size: 11px;
+        }
+        .contactcard h2 {
+            font-size: 20px;    
+        }
+        .cls-btn-login .rehead{
+            display:none;
+        }
+        .cardleft img{
+            display:none;
+        }
+        .gfsign{
+            line-height: 50px;
+        }
+      
+}
+
+
+/* ----------------------------------product details table css--------- */
+
+
+
+/* Media query for mobile view (max-width: 476px) */
+@media screen and (max-width: 476px) {
+    /* Reset table layout for mobile */
+    th, td {
+        display: block;
+        width: 100%;
+        border-bottom: none;
+        padding: 4px;
+        text-align: left;
+    }
+
+    /* Add styles for mobile layout */
+    td {
+        border-bottom: 1px solid #ddd;
+    }
+    .mob-view-sum{
+        float:right;
+      }
+      .table td{
+        padding:10px !important;
+      }
+      .table td{
+        border:none !important;
+      }
+      .table thead{
+        display:none;
+      }
+      .summary .col-lg-9 h2{
+        padding-left: 15px;
+      }
+      .bgflower{
+        display:none;
+      }
+      #contact-form{
+        padding: 0px !important;
+      }
+      #about-sev {
+        padding:25px 0px !important;
+      }
+      .rate-sec-top {
+        line-height: 40px;
+      }
+      .color_red{
+        font-size: 30px !important;
+      }
+      #about-sev h3{
+        font-size: 17px;
+      }
+      .log-btn-sub {
+        background: #1f6f69;
+        padding: 11px 72px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .gfsign{
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 35px;
+        gap: 5px;
+
+
+    }
+    .gfsign button {
+        color: #1f6f69;
+        background: transparent;
+        border: 1px solid #1f6f69;
+        border-radius: 10px;
+        padding: 5px 11px;
+        font-weight: 400;
+        font-size: 10px;
+    }
+    .register-text{
+        line-height: 40px !important;
+    }
+
+      
+      
+      
+      
+
+
+
+
+
+
+
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

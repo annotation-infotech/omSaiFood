@@ -1,0 +1,1253 @@
+.container{
+  padding-left: 30px;
+  padding-right: 30px;
+  }
+  h5{
+  font-weight: 500;
+  font-size: 15px;
+  }
+  .nav-fil-btn{
+    padding:0 !important;
+  }
+  .product-info h4{
+    color:red;
+    font-size: 29px;
+    margin: 0;
+  }
+  .sofa-top-head h1{
+    font-size: 80px;
+    color: #990e35;
+  }
+  .sofa-top-head p{
+    padding: 10px;
+    font-size: 21px;
+    color: black;
+    font-weight: 500;
+    line-height: 34px;
+
+  }
+  .sofa-top-head h2{
+    font-size: 40px;
+    margin-bottom: 0;
+  }
+  
+  .filter-section{
+    padding: 0px 20px 10px 0px !important;
+
+  }
+  .product-filter label{
+    line-height: 30px !important;
+    font-size: 12px !important;
+
+  }
+  .product-filter h4{
+    text-align: left !important;
+    margin-bottom: 5px;
+    color: #0d6c68;
+
+  }
+  #rating-table table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+    #rating-table th, td {
+    padding: 15px;
+    text-align: left;
+    color:black;
+    font-size: 13px;
+    }
+    #rating-table tr,td {
+    text-align: left !important;
+    
+    }
+    #rating-table th{
+    font-size: 18px;
+    font-weight: 500;
+    }
+    #rating-table .first-col-table{
+    background:#f2f2f2;
+    }
+    #rating-table tr{
+    border:none !important;
+    }
+  .product-info h1{
+    line-height: 26px;
+  }
+  .section-twocard-offer h5{
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+  }
+  .cart-head-shop{
+    border-right:8px solid #f1f3f6;
+  }
+  .bed-cart-total{
+    background:white;
+  }
+  .section-twocard-offer img{
+    max-width: 109%;
+    height: auto;
+    margin-top: -47px;
+  }
+  .section-twocard-offer .c-one{
+    border-radius: 0px 0px 0px 100px;
+    border: none;
+    background: #f3f7fc;
+  }
+  .section-twocard-offer .c-two{
+    border-radius: 0px 100px 0px 0px;
+    border: none;
+    background:#e1e3e1;
+  }
+  .offer-bed-btn-one{
+    background: #a22033;
+    border: none;
+    border-radius: 0;
+    padding: 3px 38px;
+    font-size: 21px;
+    color: white ;
+  }
+  .offer-bed-btn-two{
+    background: #1f6f69;
+    border: none;
+    border-radius: 0;
+    padding: 3px 38px;
+    font-size: 21px;
+    color: white ;
+  }
+  #mainnav > ul > li > a{
+    color:white !important;
+    font-weight: 500;
+  }
+  .section-bed-cards-svg .card{
+    border:none;
+  }
+  .section-bed-cards-svg .card h5{
+    font-weight: 600;
+  }
+  
+  .message-form input[type="text"]{
+    margin-right: 5px;
+    border-radius: 3px;
+    background: #effefe;
+    padding: 5px 223px;
+    margin:0;
+}
+.bed-top h2{
+    font-size: 60px;
+    line-height: 64px;
+    font-weight: 800;
+    padding-top:2em;
+    color: #1f6f69;
+}
+.bed-img-top img{
+    max-width: 120%;
+}
+.section-banner-bed{
+    background:#f3f7fc;
+}
+
+.topbt{
+    margin:0;
+    margin-top: 20px;
+}
+  /* -----------------------------home page css---------------------------------- */
+  .bestsell h3{
+    font-size: 22px;
+  }
+  .menu li a{
+  color:black !important;
+  }
+  .web-top strong{
+    font-weight: 600;
+    font-size: 70px;
+  }
+  .topbt {
+  background:#00615d !important;
+  border-radius: 10px;
+  
+  }
+  
+  .topbt-kid {
+  background: white !important;
+  border-radius: 10px;
+  color:black !important;
+
+  }
+  #about-sev{
+  
+  margin-top: 0px !important;
+  padding: 3rem;
+  }
+  #about-sev h3{
+  font-size: 18px;
+  }
+  .whishcard{
+  border: none;
+  }
+  .textsec p{
+  text-align: center;
+  font-size: 17px !important;
+  } 
+  .whishbody{
+  padding: 1.25rem 0px;
+  padding-top:0.5rem ;
+  }
+  .whishcard img{
+  border: 1px solid #cbcacb;
+  padding: 80px 20px 30px 20px;
+  border-radius: 11px;
+  }
+  .price{
+  font-weight: 800;
+  color: #1f6f69;
+  font-size: 18px;
+  padding-right: 10px;
+
+  }
+  .offer{
+  font-size: 13px;
+  color: #36a76b;
+  padding-left: 12px;
+  font-weight: 800;
+  }
+  .bttxt{
+  justify-content: space-between;
+  }
+  .whbtn{
+  padding: 2px 10px;
+  background:#1f6f69;
+  color: #fff;
+  margin-top: -11px;
+  font-weight: 700;
+  font-size: 10px;
+  }
+  .weight{
+  font-size: 13px;
+  }
+  p.card-text{
+  line-height: 0px !important;
+  }
+  .whishbody h5{
+  font-size: 14px !important;
+  font-weight: 600;
+  }
+  .category{
+  padding: 50px 50px;
+  background-color: #fff;
+  }
+  .vall{
+  font-size: 19px;
+  font-weight: 600;
+  float: right;
+  }
+  .allphoto .col-lg-6{
+  padding:5px;
+  padding-top:0px !important;
+  }
+  .allphoto .col-lg-8{
+  padding:5px;
+  }
+  .textsec p{
+  font-size: 20px;
+  }
+  h3{
+  font-size: 30px;
+  }
+  .allphoto img{
+  max-width: 95%;
+  }
+  .gallery{
+  background-color: #fff;
+  }
+  .break{
+  display: none;
+  }
+  .followbtn{
+  padding: 8px 80px;
+  background: #1f6f69; 
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  }
+  .followbtn-par{
+  margin:auto;
+  }
+  .followbtn a{
+  color: #fff;
+  }
+  .followbtn i{
+  color: white;
+  padding-right: 15px;
+  font-size: 20px;
+  }
+  .message-form {
+  align-items: center;
+  }
+  .message-form span{
+  font-size:20px;
+  font-weight:600;
+  color:#106d69; 
+  }
+  
+  .message-form input[type="email"] {
+  margin-right: 5px;
+  border-radius: 10px;
+  background:#e4d0cf;
+  padding: 22px;
+  }
+  .message-form input[type="submit"] {
+  background-color: #106d69;
+  color: white;
+  border: none;
+  padding: 14px 47px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 500;
+  }
+  .slidersec-home h4{
+  text-align:center;
+  font-size: 16px;
+  font-size: 14px;
+  }
+  .slidersec-home img{
+  padding:25px;
+  }
+  .slidersec-home .btn{
+  background:#1f6f69;
+  color:white;
+  }
+  .slidersec-home .card{
+  border-radius:15px;
+  }
+  
+  /* ------------------------------------nav bar css-------------------------------------- */
+  .navbar-light .navbar-brand {
+    color: white;
+    font-size: 33px;
+    font-weight: 800;
+  }
+  .navbar-light .navbar-nav .nav-link{
+    color:white;
+  }
+
+
+  .svgin-mob{
+    flex-direction: row;
+  }
+
+
+
+
+  
+
+  #hor-table{
+    display: none;
+  }
+  .bg-light {
+  background-color: #0c6c68 !important;
+  }
+  .search-input{
+  width: 45em;
+  border-radius: 9px !important;
+  background-color: #f1f3f6 !important;
+  margin-left:10px;
+  margin-bottom: 0px !important;
+  border: none !important;
+  }
+  .search-label{
+  font-size: 13px;
+  }
+  .testimonial-slider {
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -26px;
+  }
+  .testimonial-card {
+  flex: 0 0 33.33%; /* Display three testimonials at a time */
+  text-align: center;
+  background: white;
+  padding: 20px;
+  margin: 10px 35px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  }
+  .testimonial-card p {
+  color: #000;
+  margin: 0;
+  }
+  .zoomed {
+  transform: scale(1.2); /* Zoom in the middle testimonial */
+  transition: all 0.3s ease;
+  }
+  .testimonial-name{
+  font-size:20px; 
+  }
+  .fourcard .svg-icon{
+  height:50px;
+  width: 55px;
+  padding:8px;
+  background:#71343b;
+  margin-top: -3em;
+  border-radius: 10px;
+  border:none;
+  }
+  .fourcard .card{
+  padding:10px;
+  background:#1f6f69;
+  border-radius:20px;
+  margin-top:2em;
+  padding-left:20px;
+  }
+  .fourcard h2{
+  margin-bottom:5px;
+  font-size: 17px;
+  line-height: 18px;
+  }
+  .fourcard h2{
+  color:white;
+  }
+  .fourcard .card p{
+  color:white;
+  font-size: 13px;
+  line-height: 17px;
+  }
+  /* --------------------------------------------------product details page start----------------------------------------------------------- */
+  .detailssection{
+  background:#fff;
+  }
+  .product-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  
+  }
+  .product-photo {
+  flex: 1;
+  padding: 20px;
+  position: relative; /* Create a relative positioning context for the slideshow */
+  }
+  .product-images {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: -150px; /* Initial position to hide the thumbnails */
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  overflow-y: auto;
+  max-height: 300px;
+  transition: left 0.3s ease-in-out;
+  
+
+  }
+  .product-images img {
+  width: 100px; /* Adjust the thumbnail image size */
+  margin-bottom: 10px;
+  cursor: pointer;
+  }
+  .product-info {
+  flex: 1;
+  padding: 20px;
+  }
+  .product-info h1{
+  font-size: 24px;
+  margin-bottom:10px;
+  }
+  /* Additional styling for the product image */
+  .product-image {
+  max-width: 100%;
+  height: auto;
+  }
+  .star-rating {
+  display: inline-block;
+  font-size: 25px;
+  color: #1f6f69; /* Gold color for stars */
+ 
+  }
+  .str-pro-details{
+    border-bottom: 3px solid #e6e6e6 !important;
+    padding-bottom: 10px;
+  }
+  /* Style for the empty star */
+  .star-empty::before {
+  content: '\2606'; /* Unicode character for an empty star */
+  }
+  /* Style for the filled star */
+  .star-filled::before {
+  content: '\2605'; /* Unicode character for a filled star */
+  color:#ffae44;
+  }
+  .rating{
+  color:black;
+  font-size: 19px;
+  }
+  .product-price{
+  font-weight: 600;
+  color: #0d6c68;
+  font-size: 35px;
+  
+  }
+  .product-offer{
+  font-size: 20px;
+  color: #36a76b;
+  padding-left: 12px;
+  font-weight: 800;
+  }
+  .mrp{
+  font-size: 20px;
+  font-weight: 600;
+  }
+  .deadline{
+  font-size: 15px;
+  color: #36a76b;
+  }
+  .stockleft{
+  font-size: 15px;
+  color: red;
+  }
+  .addcardbtn{
+    background-color: #e6e6e6;
+    padding: 11px 24px;
+    border-radius: 12px;
+    color: black;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  .addcardbtn:hover{
+    background-color: #0d6c68;
+    padding: 11px 24px;
+    border-radius: 12px;
+    color: white;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  
+  .dot-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 300px
+    
+}
+
+.dot {
+  width: 46px;
+  display: flex;
+  flex-direction: column;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #0d6c68;
+    cursor: pointer;
+}
+
+/* .dot-1 .circle {
+    background-color: #42210b;
+}
+
+.dot-2 .circle {
+    background-color: black;
+}
+
+.dot-3 .circle {
+    background-color: #0d6c68;
+}
+
+.dot-4 .circle {
+    background-color: #a67c52;
+} */
+
+.color-name {
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: left;
+}
+  #exTab1 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+  }
+  #exTab2 h3 {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+  }
+  /* remove border radius for the tab */
+  #exTab1 .nav-pills > li > a {
+  border-radius: 0;
+  }
+  /* change border radius for the tab , apply corners on top*/
+  #exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+  font-size: 21px;
+  font-weight: 500;
+  color: #1f6f69;
+  }
+  #exTab3 .tab-content {
+  color : white;
+  background-color: white;
+  padding : 5px 15px;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+  }
+  .nav{
+  justify-content: space-around;
+  background: white;
+  padding-top: 40px;
+  }
+  .tab-pane h3{
+  font-size: 16px;
+  font-weight: 500;
+  }
+  .tab-content > .active{
+  padding:40px 10px;
+  background:white;
+  }
+  .pillhead h2{
+  font-size: 22px;
+  }
+  .pillsec{
+  background:#fff;
+  }
+  .section-rowof-beds .card{
+    border:none;
+  }
+  /* Default styling for the tabs */
+  .nav-pills > li > a {
+  border-bottom: 5px solid transparent; /* Initial state with no border */
+  transition: border-color 0.3s ease; /* Smooth transition for the border */
+  }
+  /* Styling on hover */
+  .nav-pills > li > a:hover {
+  border-bottom-color: #1f6f69; /* Border color on hover */
+  }
+  /* Styling on click (active state) */
+  .nav-pills > li.active > a,
+  .nav-pills > li.active > a:hover {
+  border-bottom-color: #1f6f69; /* Border color on click and on hover while active */
+  }
+  /* --------------------------------contact page css start------------------------------------------------------ */
+  .contact{
+  background:#fff;
+  }
+  .contact-page-text h4{
+    color:black !important;
+  }
+  .before-nav p{
+    color:black !important;
+  }
+  .contact-head{
+    font-size: 37px !important;
+    margin-bottom: 10px;
+    color: #0c6c68;
+    font-weight: 800;
+    padding-top: 15px;
+  }
+  .contactcard {
+  padding: 20px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  border-radius: 13px;
+  }
+  .contactcard h2{
+  font-size: 28px;
+  color:#1f6f69;
+  }
+  .contactcard h4{
+  font-size: 16px;
+  font-weight: 500;
+  }
+  #contact-form input,textarea{
+  background: #f0fffe;
+  border-radius: 6px;
+  padding: 23px;
+  }
+  .button-contact{
+  background-color: #1f6f69;
+  padding: 14px 60px;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  }
+  .footer-educare-widget .info-list ul li {
+  border-top:none;
+  }
+  .footer-content-widget p{
+    color:black;
+  }
+  .contpageli li a{
+  font-size: 17px !important;
+  color:#1f6f69;
+  }
+  .contpageli li p{
+  font-size: 17px !important;
+  color:#1f6f69;
+  }
+  .contpageli li {
+  font-size: 17px !important;
+  color:#1f6f69;
+  }
+  .borlef{
+  border:none;
+  padding:0px;
+  }
+  .icoinsta{
+  border:none;
+  }
+  .icoinsta a{
+  background-color:#1f6f69;
+  }
+  /* -----------------------------filter modal css start--------------------------- */
+  #uniqueModalDialog.left,
+#uniqueModalDialog.right {
+    position: fixed;
+    margin: auto;
+    width: 320px;
+    height: 100%;
+    -webkit-transform: translate3d(0%, 0, 0);
+    -ms-transform: translate3d(0%, 0, 0);
+    -o-transform: translate3d(0%, 0, 0);
+    transform: translate3d(0%, 0, 0);
+}
+
+/* Styles for the modal content */
+#uniqueModalContent.left,
+#uniqueModalContent.right {
+    height: 100%;
+    overflow-y: auto;
+    border-radius: 0px;
+}
+
+/* Styles for the modal body */
+#uniqueModalBody.left,
+#uniqueModalBody.right {
+    padding: 15px 15px 80px;
+}
+
+/* Styles for the modal when it fades in from the right */
+#uniqueModal.right.fade .modal-dialog {
+    right: -320px;
+    -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+    transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+
+#uniqueModal.right.fade.in .modal-dialog {
+    right: 0;
+}
+.mob-filter-apply{
+   background: #0d6c68;
+    padding: 0px 65px;
+    font-size: 26px;
+}
+.filter-btn-mob{
+   padding: 0px 10px !important;
+    font-size: 18px;
+    background: transparent;
+}
+.filter-btn-mob{
+  display: none;
+}
+
+  /* -------------------------cart css start-------------------------------------- */
+  .table th{
+  border-top:none !important;
+  }
+  .table tr,td{
+  text-align:center;
+  }
+  .media-body h5,p{
+  text-align:left;
+  }
+  .media-body p{
+  font-size:13px;
+  }
+  .media-body h5{
+  margin-bottom:5px;
+  }
+  .secbill {
+    background:#f1f3f6;
+  }
+  .summary h2{
+  font-size: 21px;
+  line-height: 35px;
+  color: #1f6f69;
+ 
+  }
+  thead,tr{
+  border-bottom: 8px solid #efe1e1 !important;
+  border-right:none !important;
+  border-left:none !important;
+  border-top:none !important;
+  }
+  .productcountno{
+  padding: 0px;
+  padding-left:0px !important;
+  border: 3px solid !important;
+  }
+  .minusbtn,.plusbtn{
+  border:none;
+  }
+  .table td{
+  vertical-align:middle;
+  }
+  .sumprice span{
+  font-weight:600;
+  color: #1f6f69;
+  font-size:20px;
+  }
+  .table td, .table th{
+  padding:1.75rem;
+  }
+  .ordsum span{
+  font-size:15px;
+  line-height: 22px;
+  }
+  hr{
+  font-weight: bold;
+  }
+  .promo{
+  background: #f1f3f6 !important;
+  border-radius: 10px !important;
+  margin-bottom:0px !important;
+  }
+  .promobtn{
+  background:#1f6f69;
+  padding: 3px 25px !important;
+  border-radius: 10px;
+  font-weight: 600;
+  }
+  .checkoutbtn{
+  background:#fbb03b;
+  font-weight: 700;
+  border-radius: 10px;
+  color: black;
+  }
+  .summary .col-lg-9{
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+  border-radius: 30px;
+  }
+  .orsumtop{
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  border-radius: 10px;
+  height: 500px;
+  
+  }
+  .pay-text-last{
+  font-size: 11px;
+  }
+  /* -------------------------------------------card address start */
+  .logsub{
+  background:#1f6f69;
+  border-radius:10px;
+  font-weight: 700;
+  }
+  .subaddress{
+  background:#1f6f69;
+  border-radius:10px;
+  padding:8px 30px
+  }
+  .addressform .form-control{
+  border: 1px solid !important;
+  border-radius:10px !important;
+  }
+  .addressform label{
+  padding-bottom:8px !important;
+  }
+  .form-check-label{
+  padding-bottom:10px;
+  }
+  .ordersummary thead,tr{
+  border-bottom: 8px solid #f1f3f6 !important;
+  }
+  /* Custom styling for circular checkbox */
+  .custom-checkbox {
+  display: inline-block;
+  position: relative;
+  padding-left: 35px; /* Adjust the size of the checkbox */
+  padding-bottom: 40px;
+  }
+  /* Hide the default checkbox */
+  .custom-checkbox input[type="checkbox"] {
+  opacity: 0;
+  }
+  /* Style the circular border */
+  .custom-checkbox .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px; /* Size of the circular checkbox */
+  width: 20px; /* Size of the circular checkbox */
+  border: 2px solid #ccc; /* Default border color */
+  border-radius: 50%; /* Make it circular */
+  }
+  /* Style the checkmark inside the checkbox */
+  .custom-checkbox input[type="checkbox"]:checked + .checkmark {
+  background-color: #1f6f69; /* Change background color when checked */
+  border-color: black; /* Change border color when checked */
+  }
+  /* Style the label text */
+  .custom-checkbox .form-check-label {
+  margin-left: 45px; /* Adjust spacing between checkbox and label */
+  }
+  /* -------------------------rating page css start---------------------------- */
+  .repara,.rehead{
+  text-align:right;
+  }
+  .revbtn{
+  background:#1f6f69;
+  }
+  .verfied-rating h2{
+  color: #1f6f69;
+  }
+  .heading-top-rate{
+  border-bottom:5px solid #f1f3f6; 
+  }
+  .rate-sec-top{
+  border-bottom:10px solid #f1f3f6;
+  }
+  .rateing-text{
+  font-size:15px;
+  }
+  .rating-thumb{
+  padding-top:20px;
+  padding-bottom:20px;
+  }
+  .review p{
+  color:black;
+  }
+  .last-line-foot p{
+  text-align: center !important;
+  }
+  .login-content p{
+  text-align:center;
+  line-height: 80px;
+  }
+  .login-content{
+  text-align:center;
+  }
+  .login-content .loginbtn{
+  text-align:center;
+  }
+  .log-btn-sub {
+  background: #1f6f69;
+  padding: 13px 69px;
+  border-radius: 10px;
+  }
+  .gfsign button{
+  color: #1f6f69;
+  background: transparent;
+  border: 1px solid #1f6f69;
+  border-radius: 10px;
+  padding: 9px 47px;
+  font-weight: 400;
+  font-size: 11px;
+  }
+  .cardleft img{
+  border-radius: 14px 0px 0px 14px;
+  }
+  .gfsing  img{
+  max-width: 5% !important;
+  }
+  .tab {
+  float: left;
+  background-color: #fff;
+  }
+  /* Style the buttons inside the tab */
+  .tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 11px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 16px;
+  border-bottom:3px solid #efe1e1; 
+  background:#fff;
+  }
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+  background-color: #ddd;
+  }
+  /* Create an active/current "tab button" class */
+  .tab button.active {
+  color: #1f6f69;
+  border-left: 7px solid #1f6f69;
+  font-weight:600;
+  }
+  /* Style the tab content */
+  .tabcontent {
+  float: left;
+  padding: 0px 12px;
+  width: 100%;
+  border-left: none;
+  margin-left: 15px;
+  background: white;
+  border-radius: 30px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
+  .tab-pill-left{
+  padding-right:0px;
+  padding-left:0px;
+  height: 300px !important;
+  box-shadow:none !important;
+  }
+  .profile-section{
+  background:#fff;
+  }
+  .tab #defaultOpen{
+  border-radius: 0px 30px 0px 0px;
+  }
+  .tab #lasttabpill{
+  border-radius: 0px 0px 30px 0px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
+  .tab-opt-pro .col-lg-9{
+  box-shadow:none !important;
+  }
+  .profile-myinfo img{
+  }
+  .mypro-text-name h4{
+  font-size: 27px;
+  color: #1f6f69;
+  }
+  .mypro-text-name p strong{
+  color: #1f6f69;
+  font-weight: 600;
+  }
+  .mypro-text-name p {
+  line-height: 40px;
+  }
+  .myprobtn-pill{
+  background: #1f6f69;
+  padding:1px 12px;
+  }
+  .chage-pass{
+  margin-left:10px;
+  }
+  .my-pro-border{
+  border:none;
+  }
+  .my-ord-tab h6{
+  color:#1f6f69;
+  margin-bottom:0px;  
+  }
+  .my-ord-tab p{
+  color:black !important;
+  margin-bottom:0px;  
+  font-size: 14px;
+  line-height: 35px;
+  }
+  .ord-detail-btn button{
+  font-size:11px;
+  }
+  .my-profile-wish h5{
+  font-size:14px !important;
+  }
+  .my-profile-wish{
+  background:#fff;
+  }
+  .add-bg-btn{
+  padding: 1px 2px;
+  background: #1f6f69;
+  color: #fff;
+  margin-top: -11px;
+  font-weight: 700;
+  font-size: 10px;
+  }
+  .tab-pill-left button{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  text-transform: none;
+  font-weight: 500;
+  }
+  .address-card {
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  .address-card h4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color:#1f6f69;
+  }
+  .edit-icon, .delete-icon {
+  cursor: pointer;
+  color: #007bff;
+  margin-left: 10px;
+  }
+  .delete-icon:hover {
+  color: #ff0000;
+  }
+  .dlt-btn{
+  float: right;
+  cursor: pointer;
+  margin: -7px;
+  margin-left: 10em !important;
+  }
+  .vmallsection {
+  background: linear-gradient(to bottom, #f6e8eb, #fffcfd);
+  }
+  .vmallsection p{
+  font-size:15px !important;
+  }
+  .vmsection{
+  text-align:center !important;
+  }
+  .vmsection h5{
+  font-weight:400;
+  font-size: 17px;
+  }
+  .vis-mis p{
+  font-size: 15px;
+  }
+  .vis-mis .card{
+  padding: 25px;
+  text-align: left;
+  border-radius: 20px;
+  background:#f0e5e4;
+  border:none;
+  }
+  .vis-mis h2{
+  color: #1f6f69;
+  text-decoration:underline;
+  font-size: 26px;
+  }
+  .valuessection .svg-icon{
+  padding-right:10px;
+  height: 28px;
+  }
+  .value h2{
+  text-decoration:none;
+  font-size: 20px;
+  margin-bottom: 5px;
+  }
+  .exp{
+  padding: 8px 80px;
+  background: #1f6f69;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  color:white;
+  }
+  .explorebtn{
+  padding-top:30px;
+  }
+  .fl-right-top-image-pdetails {
+  position: absolute;
+  top: 0%;
+  right: 0;
+  width: 375px;
+  height: auto;
+  z-index: 1;
+  margin-right: -90px;
+  }
+  .pillsec{
+  position:relative;
+  }
+  .fl-left-top-image-gall{
+  position: absolute;
+  top: 0%;
+  left: 0;
+  width: 400px;
+  height: auto;
+  z-index: 1;
+  margin-left: -50px;
+  }
+  .fl-left-top-image-abgall{
+  position: absolute;
+  top: 0%;
+  left: 0;
+  width: 400px;
+  height: auto;
+  z-index: 1;
+  margin-left: -50px;
+  }
+  .gallery{
+  position: relative;
+  }
+  /* CSS for your section */
+  .fl-left-top-image {
+  position: absolute;
+  top: 35%;
+  left: 0;
+  width: 450px;
+  height: auto;
+  z-index: 1;
+  margin-left: -87px;
+  }
+  .fl-right-top-image {
+  position: absolute;
+  top: 56%;
+  right: 0;
+  width: 450px;
+  height: auto;
+  z-index: 1;
+  margin-right: -87px;
+  }
+  #about-sev{
+  position: relative;
+  }
+  .cho-fl-left-top-image {
+  position: absolute;
+  top: 0%;
+  left: 0;
+  width: 450px;
+  height: auto;
+  z-index: 1;
+  margin-left: -87px;
+  }
+  .footer-educare-widget p{
+  font-size: 12px;
+  }
+  .useful-link-list ul li a{
+  font-size: 12px;
+  }
+  .footer-educare-widget .info-list ul li{
+  font-size: 12px;
+  }
+  .atc{
+    background:#fbb03b;
+    padding: 15px 80px;
+}
+.bn{
+    background:#1f6f69;
+    padding: 15px 80px;
+    color:black;
+}
+.pro-details-ptoto-btn{
+    gap:5px;
+    padding-top: 2px;
+}
+
+#cart-counter {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 4px 8px;
+  position: relative;
+  top: -10px;
+  left: 45px;
+  font-size: 12px;
+}
+  
